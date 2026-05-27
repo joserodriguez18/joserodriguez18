@@ -1,10 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0B1120,70:2563EB,100:38BDF8&text=ANALISTA%26DESARROLLADOR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=C%23%20%E2%80%A2%20PHP%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20SQL&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,30:0B1120,70:2563EB,100:38BDF8&text=ANALISTA%20%7C%20DESARROLLADOR&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=C%23%20%E2%80%A2%20PHP%20%E2%80%A2%20REST%20APIs%20%E2%80%A2%20SQL&descAlignY=58"/>
+
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+robust+backend+systems...;REST+APIs+%7C+Automation+%7C+Databases;C%23+%7C+PHP+%7C+SQL+%7C+Docker;Turning+business+logic+into+scalable+solutions..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Creación+de+sistemas+backend+robustos...;REST+APIs+%7C+Automatización+%7C+Bases+de+datos;C%23+%7C+PHP+%7C+SQL+%7C+Docker;Convertir+la+lógica+empresarial+en+soluciones+escalables..." />
 
 </div>
 
@@ -12,30 +13,30 @@
 
 <div align="center">
 
-### Junior Backend Developer focused on APIs, automation and scalable backend solutions.
+### Analista y desarrollador especializado en C#, automatización y soluciones de backend escalables.
 
 </div>
 
 <br>
 
 ```bash
-> whoami
 
-Backend Developer • Medellín, Colombia
 
-Specialized in:
-- REST APIs
-- Backend Architecture
+Analista y desarrollador • Medellín, Colombia
+
+Especializado en:
+- APIs REST
+- Arquitectura de Backend
 - SQL Databases
-- Business Logic
-- Automation Systems
+- Lógica de Negocio
+- Sistemas de Automatización
 
-Building backend solutions with C#, PHP, SQL and modern development tools.
+Desarrollo de soluciones de backend con C#, PHP, SQL y herramientas de desarrollo modernas.
 ```
 
 ---
 
-# Backend Stack
+# Stack
 
 <div align="center">
 
@@ -43,7 +44,7 @@ Building backend solutions with C#, PHP, SQL and modern development tools.
 <tr>
 <td align="center" width="33%">
 
-### Backend Development
+### Desarrollo de Backend
 
 <br>
 
@@ -57,10 +58,11 @@ C# • PHP • Python • JavaScript
 
 <td align="center" width="33%">
 
-### Databases & APIs
+### Bases de datos
 
 <br>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" width="48" />
 <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
 
 <br><br>
@@ -71,7 +73,7 @@ SQL Server • MySQL • PostgreSQL
 
 <td align="center" width="33%">
 
-### Tools & Workflow
+### Herramientas y flujo de trabajo
 
 <br>
 
@@ -89,7 +91,7 @@ Docker • Git • Postman • Swagger
 
 ---
 
-# Contribution Activity
+# Actividad de Contribución
 
 <div align="center">
 
@@ -101,13 +103,13 @@ Docker • Git • Postman • Swagger
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%24+initializing+backend+environment...;%24+loading+REST+APIs...;%24+connecting+SQL+databases...;%24+system+status%3A+ONLINE" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=%24+Inicializando+el+entorno+del+backend...;%24+Cargando+las+API+REST...;%24+Conectando+las+bases+de+datos...;%24+system+status%3A+ONLINE" />
 
 </div>
 
 ---
 
-# Featured Projects
+# Proyectos destacados
 
 <table>
 <tr>
@@ -115,15 +117,15 @@ Docker • Git • Postman • Swagger
 
 ## 💸 PocketPal
 
-Financial tracking system with automated email parsing and backend processing.
+Sistema de seguimiento financiero con análisis automático de correos electrónicos y procesamiento en segundo plano.
 
 </td>
 
 <td width="50%">
 
-## 🏫 Academic Scheduler
+## 🏫 Sistema de Gestión Horaria
 
-Automated academic schedule management system for SENA.
+Sistema automatizado para gestión de horarios y asignación de aulas académicas.
 
 </td>
 </tr>
@@ -131,17 +133,17 @@ Automated academic schedule management system for SENA.
 <tr>
 <td width="50%">
 
-## ⚙️ REST API Systems
+## ⚙️ Sistemas de API REST
 
-Backend APIs with authentication, business logic and database integration.
+API de backend con autenticación, lógica de negocio e integración con bases de datos.
 
 </td>
 
 <td width="50%">
 
-## ☁️ Automation Solutions
+## ☁️ Soluciones de automatización
 
-Automation workflows and scalable backend integrations.
+Flujos de trabajo de automatización e integraciones de backend escalables.
 
 </td>
 </tr>
@@ -161,15 +163,15 @@ Automation workflows and scalable backend integrations.
 
 <div align="center">
 
-<a href="https://github.com/TU-USUARIO">
+<a href="https://github.com/joserodriguez18">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 
-<a href="https://linkedin.com/in/TU-LINK">
+<a href="https://linkedin.com/in/jose-manuel-rodriguez-angulo">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 
-<a href="mailto:TUEMAIL@gmail.com">
+<a href="mailto:jmra0226@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 
@@ -177,6 +179,6 @@ Automation workflows and scalable backend integrations.
 
 <div align="center">
 
-### Building scalable backend systems.
+### Desarrollo de sistemas escalables.
 
 </div>
