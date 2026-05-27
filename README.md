@@ -93,7 +93,7 @@ Docker • Git • Postman • Swagger
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/joserodriguez18/joserodriguez18/output/pacman-contribution-graph.svg">
+<img width="100%" src="https://raw.githubusercontent.com/joserodriguez18/joserodriguez18/output/pacman-contribution-graph-dark.svg">
 
 </div>
 
