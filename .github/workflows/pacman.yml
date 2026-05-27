@@ -6,16 +6,21 @@ on:
 
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: abozanona/pacman-contribution-graph@main
+      - name: Generate Pacman Graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: joserodriguez18
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Push Pacman Graph
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
